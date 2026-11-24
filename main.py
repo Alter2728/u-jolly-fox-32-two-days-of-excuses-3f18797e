@@ -18,8 +18,11 @@ import os
 # confidence" — so the joke is the gap between a machine's total confidence
 # and its total failure, and "I am the 1%" lands as the twist on the last
 # word instead of an explanation.
+# Second polish (coordinator): "Turns out, I am the 1%" adds a small beat
+# before the twist, so the punchline lands as a discovery rather than a
+# flat statement.
 ENTRY = (
-    "My model predicted on-time delivery with 99% confidence. "
+    "My model predicted on-time delivery with 99% confidence. Turns out, "
     "I am the 1%."
 )
 
